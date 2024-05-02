@@ -18,7 +18,7 @@ In the world of cloud, security remains a top priority, especially when using po
 10)
 11)
 12)
-13))
+13)
 14)
 15)
 16)
