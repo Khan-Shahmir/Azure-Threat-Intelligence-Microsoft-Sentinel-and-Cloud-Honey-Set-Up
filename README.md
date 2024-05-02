@@ -6,9 +6,17 @@ Introduction to Project Azure Threat Intelligence
 
 In the world of cloud, security remains a top priority, especially when using powerful platforms like Microsoft Azure. The Azure Threat Intelligence project aims to utilize Azure's extensive security tools to detect, analyze, and counter threats efficiently. This effort involves implementing various security measures across different Azure components, including Storage Accounts, Virtual Networks, and Key Vaults. The objective is to create a secure cloud infrastructure that can withstand cyber threats and adhere to industry regulations. Here are the list of screenshots I captured while conducting the project and will present the meaning behind them. 
 
-1)  
-    ![CreatedKeyVault](https://github.com/Khan-Shahmir/Azure-Threat-Intelligence-Microsoft-Sentinel-and-Cloud-Honey-Set-Up/assets/143667443/c9f436b6-23de-46c2-b50a-f5d76714da66)
-2)  
+
+1)    s
+
+
+
+
+
+
+
+ ![CreatedKeyVault](https://github.com/Khan-Shahmir/Azure-Threat-Intelligence-Microsoft-Sentinel-and-Cloud-Honey-Set-Up/assets/143667443/c9f436b6-23de-46c2-b50a-f5d76714da66)
+2)
 3)
 4)
 5)
@@ -32,8 +40,6 @@ In the world of cloud, security remains a top priority, especially when using po
 23)
 24)
 25)
-26)
-27)
 
 
 
