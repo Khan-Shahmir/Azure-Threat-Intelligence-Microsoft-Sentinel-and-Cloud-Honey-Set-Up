@@ -35,8 +35,7 @@ In the world of cloud, security remains a top priority, especially when using po
 
 ![Data Collection Rules](https://github.com/Khan-Shahmir/Azure-Threat-Intelligence-Microsoft-Sentinel-and-Cloud-Honey-Set-Up/assets/143667443/e7ba1725-1fc4-46ac-b174-77afb50f8732)
 
-4) 
-
+4)
 
 
 
@@ -46,6 +45,7 @@ In the world of cloud, security remains a top priority, especially when using po
 ![Data Sources DCR](https://github.com/Khan-Shahmir/Azure-Threat-Intelligence-Microsoft-Sentinel-and-Cloud-Honey-Set-Up/assets/143667443/6609f1ff-7a36-4795-9908-8e796ca586f9)
 
 5) 
+
 
 
 
@@ -103,10 +103,41 @@ In the world of cloud, security remains a top priority, especially when using po
 
 ![LinuxVM-IP](https://github.com/Khan-Shahmir/Azure-Threat-Intelligence-Microsoft-Sentinel-and-Cloud-Honey-Set-Up/assets/143667443/7a81f848-b80a-486f-9b10-0152581523cd)
 
-11)
-12)
-13)
-14)
+11) 
+
+
+
+
+
+
+![QualysVM-IP](https://github.com/Khan-Shahmir/Azure-Threat-Intelligence-Microsoft-Sentinel-and-Cloud-Honey-Set-Up/assets/143667443/5ae6e1a5-092d-4549-a13b-785a0f1f82e9)
+
+12) 
+
+
+
+
+
+
+![PrivateEndpointKeyVault](https://github.com/Khan-Shahmir/Azure-Threat-Intelligence-Microsoft-Sentinel-and-Cloud-Honey-Set-Up/assets/143667443/f32a8eea-aa68-4db4-935d-75de4b062f84)
+
+13) 
+
+
+
+
+
+
+![PrivateEndpointStorage](https://github.com/Khan-Shahmir/Azure-Threat-Intelligence-Microsoft-Sentinel-and-Cloud-Honey-Set-Up/assets/143667443/1d876710-35ab-487b-96c0-65aa79664a78)
+
+14) g
+
+
+
+
+
+
+
 15)
 16)
 17)
