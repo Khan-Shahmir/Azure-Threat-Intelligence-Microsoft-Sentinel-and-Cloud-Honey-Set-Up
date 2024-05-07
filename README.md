@@ -16,6 +16,8 @@ In the world of cloud, security remains a top priority, especially when using po
 
 
 ![CreatedKeyVault](https://github.com/Khan-Shahmir/Azure-Threat-Intelligence-Microsoft-Sentinel-and-Cloud-Honey-Set-Up/assets/143667443/c9f436b6-23de-46c2-b50a-f5d76714da66)
+
+ A private endpoint for Azure Key Vault is a network interface that connects you privately and securely to the Key Vault service using a private IP address from your virtual network. This eliminates exposure to the public internet and reduces the attack surface. When you create a private endpoint, the connection must be approved. If the resource for which you're creating a private endpoint is in your directory, you'll be able to approve the connection request provided you have sufficient permissions. The private endpoint uses a private IP address in your virtual network, and you can connect to an instance of an Azure resource
  
 2) 
 
