@@ -29,6 +29,7 @@ In the world of cloud, security remains a top priority, especially when using po
 ![CreatedPrivateStorage](https://github.com/Khan-Shahmir/Azure-Threat-Intelligence-Microsoft-Sentinel-and-Cloud-Honey-Set-Up/assets/143667443/1c79e04f-bd63-460d-9ca8-2f12341e523c)
 
 Private Endpoint for Azure Storage allows you to securely connect your Azure Storage accounts to your virtual network, providing a private IP address within that network. This private IP address can then be used to access Azure Storage resources without exposure to the public internet. Private Endpoint for Azure Storage supports various services, including Blob Storage, Azure Files, Azure Queues, and Azure Tables. This means you can use Private Endpoint for a wide range of storage-related tasks. Each Private Endpoint is assigned a private IP address within your virtual network. This allows applications and services within the same virtual network to securely access Azure Storage using this private IP, keeping the traffic isolated. You can create Private Endpoints in one or more virtual networks to integrate with Azure Storage accounts. This integration is seamless and ensures secure connectivity between your Azure resources and storage.
+
 3) 
 
 
