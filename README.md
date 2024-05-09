@@ -109,6 +109,9 @@ A Linux virtual machine (VM) on Microsoft Azure is a scalable and secure computi
 
 ![QualysVM-IP](https://github.com/Khan-Shahmir/Azure-Threat-Intelligence-Microsoft-Sentinel-and-Cloud-Honey-Set-Up/assets/143667443/5ae6e1a5-092d-4549-a13b-785a0f1f82e9)
 
+
+Qualys Virtual Machine for Microsoft Azure is a cloud-based solution designed to continuously assess the security posture of Azure virtual machines (VMs). It automates vulnerability management by identifying, prioritizing, and remediating security vulnerabilities in VMs. The Qualys solution integrates seamlessly with Azure, providing comprehensive visibility into VM security across the Azure environment. It offers continuous monitoring, real-time alerts, and detailed reports to help organizations stay compliant with security standards and regulations. With Qualys Virtual Machine, Azure users can proactively secure their cloud infrastructure, reduce security risks, and maintain a strong security posture.
+
 10) 
 
 
@@ -117,6 +120,8 @@ A Linux virtual machine (VM) on Microsoft Azure is a scalable and secure computi
 
 
 ![PrivateEndpointKeyVault](https://github.com/Khan-Shahmir/Azure-Threat-Intelligence-Microsoft-Sentinel-and-Cloud-Honey-Set-Up/assets/143667443/f32a8eea-aa68-4db4-935d-75de4b062f84)
+
+rivate Endpoint for Azure Key Vault allows you to securely access Key Vault over a private connection within your Azure Virtual Network (VNet). This integration enhances security by keeping traffic within the Azure network, mitigating exposure to the public internet. It enables you to access Key Vault resources such as keys, secrets, and certificates securely from VMs and other Azure services within the same VNet. Private Endpoint provides a private IP address for Key Vault, enhancing isolation and reducing the attack surface. This setup ensures that sensitive data stored in Key Vault remains protected and compliant with regulatory requirements.
 
 11) 
 
