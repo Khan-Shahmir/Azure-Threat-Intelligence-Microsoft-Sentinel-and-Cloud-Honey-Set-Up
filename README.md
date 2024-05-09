@@ -39,6 +39,8 @@ Private Endpoint for Azure Storage allows you to securely connect your Azure Sto
 
 ![EastUs](https://github.com/Khan-Shahmir/Azure-Threat-Intelligence-Microsoft-Sentinel-and-Cloud-Honey-Set-Up/assets/143667443/2024e154-ad6a-4e15-902b-b40bbfe752b1)
 
+Network Watcher Topology on Microsoft Azure is an interactive interface that allows you to visualize and manage your cloud network infrastructure. It provides a graphical representation of resources and their relationships across multiple subscriptions, regions, and resource groups. With Topology, you can diagnose and troubleshoot network issues by gaining contextual access to Network Watcher diagnostic tools such as connection troubleshoot, packet capture, and next hop.
+
 4) 
 
 
@@ -48,6 +50,8 @@ Private Endpoint for Azure Storage allows you to securely connect your Azure Sto
 
 
 ![SOC Subnet](https://github.com/Khan-Shahmir/Azure-Threat-Intelligence-Microsoft-Sentinel-and-Cloud-Honey-Set-Up/assets/143667443/4b1a86a1-53b5-4cf4-a4f1-2e852a2ba372)
+
+A virtual network (VNet) in Microsoft Azure is an isolated network environment where Azure resources can securely communicate. It allows you to create a private space in the Azure cloud, similar to a traditional network in an on-premises data center. Within a VNet, you can define IP address ranges, subnets, and routing tables to control traffic flow and network access. Virtual machines, Azure App Services, and other Azure resources can be deployed within a VNet, enabling them to communicate with each other securely.
 
 5) 
 
@@ -59,6 +63,8 @@ Private Endpoint for Azure Storage allows you to securely connect your Azure Sto
 
 ![Perimeter Firewall(External)](https://github.com/Khan-Shahmir/Azure-Threat-Intelligence-Microsoft-Sentinel-and-Cloud-Honey-Set-Up/assets/143667443/12accbb5-49a9-4cca-8f0e-4aa1ac51d58c)
 
+Azure's perimeter firewall is a crucial security component for virtual networks, controlling inbound and outbound traffic. It allows you to define rules based on source and destination IP addresses, ports, and protocols to enforce security policies. With stateful inspection, it monitors the state of connections to make informed decisions on allowing or blocking traffic. Integrated with Azure Security Center, it provides logging, monitoring, and threat detection capabilities, ensuring continuous protection of your Azure environment.
+
 6) 
 
 
@@ -67,6 +73,8 @@ Private Endpoint for Azure Storage allows you to securely connect your Azure Sto
 
 
 ![ExternalFirewallProtectingSoc1](https://github.com/Khan-Shahmir/Azure-Threat-Intelligence-Microsoft-Sentinel-and-Cloud-Honey-Set-Up/assets/143667443/2e5b7704-e587-4900-b016-1e97d3f24fef)
+
+An external firewall in a Microsoft Azure virtual network is a security measure that helps protect cloud networks, on-premises or physical datacenter networks, and the internet. It is typically implemented as a part of a perimeter network, which is a secure subnet that incoming packets flow through before reaching back-end servers. Azure provides several features and services for implementing external firewalls
 
 7) 
 
@@ -78,6 +86,9 @@ Private Endpoint for Azure Storage allows you to securely connect your Azure Sto
 
 ![WindowsVM-IP](https://github.com/Khan-Shahmir/Azure-Threat-Intelligence-Microsoft-Sentinel-and-Cloud-Honey-Set-Up/assets/143667443/e16231bd-5c0f-4754-9066-53f34937bcbf)
 
+
+A Windows virtual machine (VM) on Microsoft Azure provides a scalable and flexible environment for running Windows-based applications and services in the cloud. It allows you to deploy Windows Server or Windows client operating systems on Azure infrastructure.
+
 8) 
 
 
@@ -86,6 +97,8 @@ Private Endpoint for Azure Storage allows you to securely connect your Azure Sto
 
 
 ![LinuxVM-IP](https://github.com/Khan-Shahmir/Azure-Threat-Intelligence-Microsoft-Sentinel-and-Cloud-Honey-Set-Up/assets/143667443/7a81f848-b80a-486f-9b10-0152581523cd)
+
+A Linux virtual machine (VM) on Microsoft Azure is a scalable and secure computing resource that can be created, configured, and managed in the Azure portal. It is deployed within a virtual network and can be assigned a public IP address for internet connectivity. The Azure Linux Agent (waagent) provides various configuration options for customizing the VM's behavior.
 
 9) 
 
