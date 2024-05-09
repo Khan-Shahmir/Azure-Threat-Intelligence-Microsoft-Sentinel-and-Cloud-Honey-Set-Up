@@ -121,7 +121,7 @@ Qualys Virtual Machine for Microsoft Azure is a cloud-based solution designed to
 
 ![PrivateEndpointKeyVault](https://github.com/Khan-Shahmir/Azure-Threat-Intelligence-Microsoft-Sentinel-and-Cloud-Honey-Set-Up/assets/143667443/f32a8eea-aa68-4db4-935d-75de4b062f84)
 
-rivate Endpoint for Azure Key Vault allows you to securely access Key Vault over a private connection within your Azure Virtual Network (VNet). This integration enhances security by keeping traffic within the Azure network, mitigating exposure to the public internet. It enables you to access Key Vault resources such as keys, secrets, and certificates securely from VMs and other Azure services within the same VNet. Private Endpoint provides a private IP address for Key Vault, enhancing isolation and reducing the attack surface. This setup ensures that sensitive data stored in Key Vault remains protected and compliant with regulatory requirements.
+Private Endpoint for Azure Key Vault allows you to securely access Key Vault over a private connection within your Azure Virtual Network (VNet). This integration enhances security by keeping traffic within the Azure network, mitigating exposure to the public internet. It enables you to access Key Vault resources such as keys, secrets, and certificates securely from VMs and other Azure services within the same VNet. Private Endpoint provides a private IP address for Key Vault, enhancing isolation and reducing the attack surface. This setup ensures that sensitive data stored in Key Vault remains protected and compliant with regulatory requirements.
 
 11) 
 
