@@ -132,6 +132,8 @@ Private Endpoint for Azure Key Vault allows you to securely access Key Vault ove
 
 ![PrivateEndpointStorage](https://github.com/Khan-Shahmir/Azure-Threat-Intelligence-Microsoft-Sentinel-and-Cloud-Honey-Set-Up/assets/143667443/1d876710-35ab-487b-96c0-65aa79664a78)
 
+Private Endpoint for Azure Storage allows you to securely access Azure Storage services over a private connection within an Azure Virtual Network (VNet). This integration ensures that traffic between your VNet and Azure Storage remains within the Azure network, enhancing security and compliance. By assigning a private IP address to Azure Storage services, it minimizes exposure to the public internet and reduces the attack surface. With Private Endpoint, applications and services within the same VNet can access Azure Storage securely without the need for public endpoints, ensuring data privacy and confidentiality.
+
 12) 
 
 
@@ -140,6 +142,9 @@ Private Endpoint for Azure Key Vault allows you to securely access Key Vault ove
 
 
 ![Monitor For Windows](https://github.com/Khan-Shahmir/Azure-Threat-Intelligence-Microsoft-Sentinel-and-Cloud-Honey-Set-Up/assets/143667443/f9630ec1-8318-4041-a035-9d165bb09551)
+
+
+Windows Server on Log Analytics Workspace in Microsoft Azure integrates Windows Server with Azure's Log Analytics service, providing comprehensive monitoring, management, and analytics capabilities. This integration enables the collection and analysis of logs, performance data, and system events from Windows Servers deployed in Azure or on-premises. By connecting Windows Servers to a Log Analytics Workspace, you gain insights into system health, security, and performance metrics in near real-time.
 
 13) 
 
@@ -150,12 +155,16 @@ Private Endpoint for Azure Key Vault allows you to securely access Key Vault ove
 
 ![Monitor For Linux](https://github.com/Khan-Shahmir/Azure-Threat-Intelligence-Microsoft-Sentinel-and-Cloud-Honey-Set-Up/assets/143667443/1c4fb361-d990-48a3-a394-0e6010ab213e)
 
+
+Linux Server on Log Analytics Workspace in Microsoft Azure integrates Linux-based servers with Azure's Log Analytics service, offering extensive monitoring, management, and analytics capabilities. This integration allows the collection and analysis of logs, performance data, and system events from Linux servers deployed in Azure or on-premises. By connecting Linux servers to a Log Analytics Workspace, administrators gain insights into system health, security, and performance metrics in near real-time. These insights aid in troubleshooting, proactive monitoring, and generating reports to enhance operational efficiency and ensure compliance. 
+
 14) 
 
 
 
 
 
+Data Collection Rules (DCRs) in Microsoft Azure are configurations that define what data is collected from various sources and how it is processed. These rules are part of Azure Monitor and are used to gather telemetry data from different Azure and non-Azure sources such as virtual machines, applications, and services. DCRs specify which types of logs, metrics, or traces to collect, where to send the data, and how to process it. They allow customization of data collection based on specific requirements and preferences. Once configured, DCRs enable monitoring, analysis, and visualization of data, providing insights into system performance, health, and security.
 
 ![Data Collection Rules](https://github.com/Khan-Shahmir/Azure-Threat-Intelligence-Microsoft-Sentinel-and-Cloud-Honey-Set-Up/assets/143667443/5dd68c06-d65a-45d3-abe1-3f3108f8e99b)
 
@@ -168,6 +177,8 @@ Private Endpoint for Azure Key Vault allows you to securely access Key Vault ove
 
 ![Data Sources DCR](https://github.com/Khan-Shahmir/Azure-Threat-Intelligence-Microsoft-Sentinel-and-Cloud-Honey-Set-Up/assets/143667443/0744b298-aa98-47c4-8b4f-db46dd98db1d)
 
+Data sources in Microsoft Azure include Azure services like Virtual Machines, Azure SQL Database, and Azure Storage, as well as non-Azure resources such as on-premises servers, applications, and third-party services. These sources emit telemetry data, including logs, metrics, and traces, which Azure Monitor collects for monitoring and analysis. By aggregating data from diverse sources, Azure enables comprehensive insights into the performance, health, and security of cloud and hybrid environments.
+
 16) 
 
 
@@ -176,6 +187,7 @@ Private Endpoint for Azure Key Vault allows you to securely access Key Vault ove
 
 
 ![Windows Event Logs](https://github.com/Khan-Shahmir/Azure-Threat-Intelligence-Microsoft-Sentinel-and-Cloud-Honey-Set-Up/assets/143667443/9649b017-04e4-4080-becd-ab7ec582d967)
+
 
 17) 
 
