@@ -164,9 +164,11 @@ Linux Server on Log Analytics Workspace in Microsoft Azure integrates Linux-base
 
 
 
-Data Collection Rules (DCRs) in Microsoft Azure are configurations that define what data is collected from various sources and how it is processed. These rules are part of Azure Monitor and are used to gather telemetry data from different Azure and non-Azure sources such as virtual machines, applications, and services. DCRs specify which types of logs, metrics, or traces to collect, where to send the data, and how to process it. They allow customization of data collection based on specific requirements and preferences. Once configured, DCRs enable monitoring, analysis, and visualization of data, providing insights into system performance, health, and security.
+
 
 ![Data Collection Rules](https://github.com/Khan-Shahmir/Azure-Threat-Intelligence-Microsoft-Sentinel-and-Cloud-Honey-Set-Up/assets/143667443/5dd68c06-d65a-45d3-abe1-3f3108f8e99b)
+
+Data Collection Rules (DCRs) in Microsoft Azure are configurations that define what data is collected from various sources and how it is processed. These rules are part of Azure Monitor and are used to gather telemetry data from different Azure and non-Azure sources such as virtual machines, applications, and services. DCRs specify which types of logs, metrics, or traces to collect, where to send the data, and how to process it. They allow customization of data collection based on specific requirements and preferences. Once configured, DCRs enable monitoring, analysis, and visualization of data, providing insights into system performance, health, and security.
 
 15) 
 
@@ -188,6 +190,7 @@ Data sources in Microsoft Azure include Azure services like Virtual Machines, Az
 
 ![Windows Event Logs](https://github.com/Khan-Shahmir/Azure-Threat-Intelligence-Microsoft-Sentinel-and-Cloud-Honey-Set-Up/assets/143667443/9649b017-04e4-4080-becd-ab7ec582d967)
 
+Windows Event Logs in Microsoft Azure provide critical insights into system performance, security, and operational health. Azure services like Azure Monitor, Azure Security Center, and Azure Sentinel collect and analyze these logs to monitor resource performance, detect security threats, and respond to incidents. Through centralized logging and analysis, Azure offers a comprehensive solution for monitoring Windows Event Logs across various Azure resources. Additionally, custom log collection and analysis enable users to gain deeper insights into their applications and tailor monitoring to specific needs.
 
 17) 
 
@@ -198,6 +201,8 @@ Data sources in Microsoft Azure include Azure services like Virtual Machines, Az
 
 ![LAW Windows Event Log - Custom](https://github.com/Khan-Shahmir/Azure-Threat-Intelligence-Microsoft-Sentinel-and-Cloud-Honey-Set-Up/assets/143667443/bc2c1f0e-6788-457f-926f-b47311acc74b)
 
+Windows Event Logs custom-form in Microsoft Azure enables tailored monitoring and analysis of specific events within applications and systems. Azure allows users to define and collect custom event logs based on unique requirements. These logs can include application-specific events, operational metrics, or business-related activities. Leveraging Azure Log Analytics, users can query and analyze these custom logs to gain insights into application performance, troubleshoot issues, and optimize operations efficiently. With customizable event log collection, Azure provides a flexible solution for monitoring and managing diverse Azure environments.
+
 18)
 
 
@@ -206,6 +211,8 @@ Data sources in Microsoft Azure include Azure services like Virtual Machines, Az
 
 
 ![Linux Syslog](https://github.com/Khan-Shahmir/Azure-Threat-Intelligence-Microsoft-Sentinel-and-Cloud-Honey-Set-Up/assets/143667443/c87d6ceb-1186-4318-910f-a1740b22aa07)
+
+Linux syslog in Microsoft Azure offers a centralized logging solution for monitoring and analyzing system events and activities. Azure services like Azure Monitor and Azure Log Analytics collect syslog data from Linux-based resources. This data includes system logs, application logs, and custom logs, providing insights into system performance, security incidents, and operational issues. By aggregating syslog data, Azure enables efficient troubleshooting, proactive monitoring, and compliance reporting for Linux environments. Leveraging Azure's scalable infrastructure, users can easily manage and analyze syslog data, ensuring the reliability and security of their Linux-based systems in the Azure cloud.
 
 19) 
 
@@ -216,14 +223,19 @@ Data sources in Microsoft Azure include Azure services like Virtual Machines, Az
 
 ![Incident](https://github.com/Khan-Shahmir/Azure-Threat-Intelligence-Microsoft-Sentinel-and-Cloud-Honey-Set-Up/assets/143667443/ad7390a5-294b-4122-a9ee-b8699d223a71)
 
+
+Incidents on Microsoft Azure refer to unexpected events or disruptions that impact the availability, performance, or security of Azure services or resources. These incidents can range from service outages to security breaches or performance degradation. Microsoft Azure provides robust incident management processes to detect, respond to, and mitigate these incidents promptly. Through Azure Service Health and Azure Status, users receive real-time updates on incidents, including their severity, impact, and resolution status. 
+
 20)
 
 
 
 
 
+![IP Brute Force](https://github.com/Khan-Shahmir/Azure-Threat-Intelligence-Microsoft-Sentinel-and-Cloud-Honey-Set-Up/assets/143667443/a438f711-674d-47b7-b15d-c88f7f44a2d5)
 
-![Linux Syslog](https://github.com/Khan-Shahmir/Azure-Threat-Intelligence-Microsoft-Sentinel-and-Cloud-Honey-Set-Up/assets/143667443/60c9ea3f-5216-4552-8a22-5b460c228e17)
+
+Custom brute force attempt Linux syslog on Microsoft Azure signifies unauthorized login attempts using repeated, automated login guesses. Azure's syslog collection gathers these events, providing visibility into potential security threats. By analyzing these logs, Azure Security Center and Azure Sentinel can detect patterns indicative of brute force attacks, such as multiple failed login attempts within a short period. These incidents trigger alerts, allowing security teams to respond swiftly to mitigate risks and strengthen security measures. 
 
 21) 
 
@@ -232,16 +244,9 @@ Data sources in Microsoft Azure include Azure services like Virtual Machines, Az
 
 
 
-![IP Brute Force](https://github.com/Khan-Shahmir/Azure-Threat-Intelligence-Microsoft-Sentinel-and-Cloud-Honey-Set-Up/assets/143667443/a438f711-674d-47b7-b15d-c88f7f44a2d5)
-
-22) 
-
-
-
-
-
-
 ![Sentinel Analytics](https://github.com/Khan-Shahmir/Azure-Threat-Intelligence-Microsoft-Sentinel-and-Cloud-Honey-Set-Up/assets/143667443/30425bd5-55ca-4eba-b66c-e58a8e51ec42)
+
+Microsoft Sentinel Analytics is a powerful security information and event management (SIEM) solution offered by Microsoft. It provides advanced threat detection, investigation, and response capabilities across the entire IT environment. Sentinel Analytics leverages AI and machine learning to detect anomalies, suspicious activities, and security threats in real-time. It aggregates and analyzes data from various sources, including logs, telemetry, and threat intelligence feeds. Security analysts can use Sentinel Analytics to investigate incidents, correlate data, and identify the root cause of security events. 
 
 23) 
 
@@ -252,6 +257,9 @@ Data sources in Microsoft Azure include Azure services like Virtual Machines, Az
 
 ![Sentinel Fusion Rule](https://github.com/Khan-Shahmir/Azure-Threat-Intelligence-Microsoft-Sentinel-and-Cloud-Honey-Set-Up/assets/143667443/5ffc5dd5-2feb-4af6-bc5f-5e9683b5c6d7)
 
+
+Microsoft Sentinel Fusion Rules are a key feature in Azure Sentinel that enable advanced threat detection by combining multiple detection logics and data sources. These rules integrate signals from various security products and sources, enhancing detection accuracy and reducing false positives. Fusion Rules use machine learning algorithms to analyze correlated data and identify complex attack patterns. They allow security analysts to create customized detection rules tailored to their organization's specific security requirements. By consolidating multiple detection logics into a single rule, Fusion Rules streamline the detection process and provide more comprehensive threat detection capabilities. Overall, Fusion Rules in Microsoft Sentinel empower organizations to strengthen their security posture and respond effectively to emerging threats.
+
 24) 
 
 
@@ -261,6 +269,8 @@ Data sources in Microsoft Azure include Azure services like Virtual Machines, Az
 
 
 ![Watchlist](https://github.com/Khan-Shahmir/Azure-Threat-Intelligence-Microsoft-Sentinel-and-Cloud-Honey-Set-Up/assets/143667443/210842dc-32a1-41e2-a4cf-656da36206de)
+
+In Microsoft Azure, a watchlist is a feature in Azure Sentinel that allows security teams to create and manage lists of entities such as IP addresses, URLs, or file hashes that they want to monitor for security-related activities. These lists can include known malicious entities, trusted assets, or entities specific to the organization's environment. Azure Sentinel can use these watchlists to enrich security analysis and threat detection by comparing incoming data against the entities in the watchlist. When a match is found, Azure Sentinel can trigger alerts or take automated response actions, helping security teams identify and respond to threats more effectively. Watchlists provide a flexible way to tailor threat detection and response to the unique needs of each organization.
 
 25) 
 
