@@ -280,6 +280,8 @@ In Microsoft Azure, a watchlist is a feature in Azure Sentinel that allows secur
 
 ![Linux SSH Threat Workbook](https://github.com/Khan-Shahmir/Azure-Threat-Intelligence-Microsoft-Sentinel-and-Cloud-Honey-Set-Up/assets/143667443/d398fa02-23b1-47b5-83ff-ff6e417e5b2b)
 
+The image shows a Linux SSH Threat Workbook in Microsoft Azure. This workbook is a tool that provides insights into potential security threats related to Linux Secure Shell (SSH) activities. It analyzes data from various sources, such as Azure Monitor logs, to help security teams identify and respond to threats. The workbook includes visualizations of SSH-related events, such as failed login attempts, brute force attacks, and suspicious activities from known malicious IP addresses. It also provides recommendations for mitigating identified threats and improving overall security posture.
+
 26) 
 
 
@@ -290,6 +292,8 @@ In Microsoft Azure, a watchlist is a feature in Azure Sentinel that allows secur
 
 ![MSSQL Threat Workbook](https://github.com/Khan-Shahmir/Azure-Threat-Intelligence-Microsoft-Sentinel-and-Cloud-Honey-Set-Up/assets/143667443/37326790-2cf5-41da-8838-9dfede296de7)
 
+A Microsoft Sentinel Threat Workbook for MSSQL is a visual and interactive tool that provides a centralized location for security analysts to investigate and analyze security-related events and alerts related to Microsoft SQL Server (MSSQL) databases. The workbook typically includes various visualizations, tables, and charts that display data from Microsoft Sentinel, such as audit logs, security alerts, and threat intelligence. The workbook may also include features that allow security analysts to pivot, filter, and drill down into data to investigate security incidents and alerts. Overall, a Microsoft Sentinel Threat Workbook for MSSQL provides a powerful and flexible tool for security analysts to investigate and respond to security incidents related to MSSQL databases.
+
 27) 
 
 
@@ -298,6 +302,12 @@ In Microsoft Azure, a watchlist is a feature in Azure Sentinel that allows secur
 
 
 ![NSG Malicious Threat Workbook](https://github.com/Khan-Shahmir/Azure-Threat-Intelligence-Microsoft-Sentinel-and-Cloud-Honey-Set-Up/assets/143667443/d3b1d052-9a4f-48e1-bd1e-1c1782d018b7)
+
+
+
+
+
+The NSG (Network Security Group) Malicious Threat Workbook is a tool designed for Microsoft Azure that enables the identification and mitigation of malicious activities within a network. It integrates threat intelligence feeds to correlate network traffic with known threats, highlighting suspicious IPs and traffic patterns. Using machine learning algorithms, it detects anomalies in traffic behavior, such as unexpected connections or high-volume activity. With customizable options for response and reporting, the workbook provides a comprehensive solution for monitoring and responding to security threats in Azure environments.
 
 28) 
 
@@ -308,6 +318,6 @@ In Microsoft Azure, a watchlist is a feature in Azure Sentinel that allows secur
 
 ![Windows RDP Threat Workbook](https://github.com/Khan-Shahmir/Azure-Threat-Intelligence-Microsoft-Sentinel-and-Cloud-Honey-Set-Up/assets/143667443/d811d942-955e-4d1a-83e3-8ed9ffd3ab94)
 
-
+The Windows RDP Threat Workbook is a comprehensive guide that helps organizations secure their Remote Desktop Protocol (RDP) connections. The workbook outlines common threats and attacks related to RDP, such as brute force attacks, man-in-the-middle attacks, and ransomware. It provides a set of best practices and recommendations to mitigate these threats, including enabling Network Level Authentication (NLA), limiting RDP exposure, and implementing multi-factor authentication (MFA). The workbook also includes a checklist for assessing and improving RDP security, making it a valuable resource for organizations seeking to enhance their RDP security posture.
 
 
