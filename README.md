@@ -248,7 +248,7 @@ Custom brute force attempt Linux syslog on Microsoft Azure signifies unauthorize
 
 Microsoft Sentinel Analytics is a powerful security information and event management (SIEM) solution offered by Microsoft. It provides advanced threat detection, investigation, and response capabilities across the entire IT environment. Sentinel Analytics leverages AI and machine learning to detect anomalies, suspicious activities, and security threats in real-time. It aggregates and analyzes data from various sources, including logs, telemetry, and threat intelligence feeds. Security analysts can use Sentinel Analytics to investigate incidents, correlate data, and identify the root cause of security events. 
 
-23) 
+22) 
 
 
 
@@ -260,7 +260,7 @@ Microsoft Sentinel Analytics is a powerful security information and event manage
 
 Microsoft Sentinel Fusion Rules are a key feature in Azure Sentinel that enable advanced threat detection by combining multiple detection logics and data sources. These rules integrate signals from various security products and sources, enhancing detection accuracy and reducing false positives. Fusion Rules use machine learning algorithms to analyze correlated data and identify complex attack patterns. They allow security analysts to create customized detection rules tailored to their organization's specific security requirements. By consolidating multiple detection logics into a single rule, Fusion Rules streamline the detection process and provide more comprehensive threat detection capabilities. Overall, Fusion Rules in Microsoft Sentinel empower organizations to strengthen their security posture and respond effectively to emerging threats.
 
-24) 
+23) 
 
 
 
@@ -272,7 +272,7 @@ Microsoft Sentinel Fusion Rules are a key feature in Azure Sentinel that enable 
 
 In Microsoft Azure, a watchlist is a feature in Azure Sentinel that allows security teams to create and manage lists of entities such as IP addresses, URLs, or file hashes that they want to monitor for security-related activities. These lists can include known malicious entities, trusted assets, or entities specific to the organization's environment. Azure Sentinel can use these watchlists to enrich security analysis and threat detection by comparing incoming data against the entities in the watchlist. When a match is found, Azure Sentinel can trigger alerts or take automated response actions, helping security teams identify and respond to threats more effectively. Watchlists provide a flexible way to tailor threat detection and response to the unique needs of each organization.
 
-25) 
+24) 
 
 
 
@@ -282,7 +282,7 @@ In Microsoft Azure, a watchlist is a feature in Azure Sentinel that allows secur
 
 The image shows a Linux SSH Threat Workbook in Microsoft Azure. This workbook is a tool that provides insights into potential security threats related to Linux Secure Shell (SSH) activities. It analyzes data from various sources, such as Azure Monitor logs, to help security teams identify and respond to threats. The workbook includes visualizations of SSH-related events, such as failed login attempts, brute force attacks, and suspicious activities from known malicious IP addresses. It also provides recommendations for mitigating identified threats and improving overall security posture.
 
-26) 
+25) 
 
 
 
@@ -294,7 +294,7 @@ The image shows a Linux SSH Threat Workbook in Microsoft Azure. This workbook is
 
 A Microsoft Sentinel Threat Workbook for MSSQL is a visual and interactive tool that provides a centralized location for security analysts to investigate and analyze security-related events and alerts related to Microsoft SQL Server (MSSQL) databases. The workbook typically includes various visualizations, tables, and charts that display data from Microsoft Sentinel, such as audit logs, security alerts, and threat intelligence. The workbook may also include features that allow security analysts to pivot, filter, and drill down into data to investigate security incidents and alerts. Overall, a Microsoft Sentinel Threat Workbook for MSSQL provides a powerful and flexible tool for security analysts to investigate and respond to security incidents related to MSSQL databases.
 
-27) 
+26) 
 
 
 
@@ -309,7 +309,7 @@ A Microsoft Sentinel Threat Workbook for MSSQL is a visual and interactive tool 
 
 The NSG (Network Security Group) Malicious Threat Workbook is a tool designed for Microsoft Azure that enables the identification and mitigation of malicious activities within a network. It integrates threat intelligence feeds to correlate network traffic with known threats, highlighting suspicious IPs and traffic patterns. Using machine learning algorithms, it detects anomalies in traffic behavior, such as unexpected connections or high-volume activity. With customizable options for response and reporting, the workbook provides a comprehensive solution for monitoring and responding to security threats in Azure environments.
 
-28) 
+27) 
 
 
 
